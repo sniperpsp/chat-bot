@@ -45,9 +45,9 @@ pipwin install PyAudio
 
 Usar arquivo `.env` e crie as variaveis
 
-OPENAI_API_KEY=sua_chave_api_openai'
-OPENWEATHERMAP_API_KEY=sua_chave_api_openai'
-RAPIDAPI_KEY=sua_chave_api_openai'
+OPENAI_API_KEY=sua_chave_api_openai'  
+OPENWEATHERMAP_API_KEY=sua_chave_api_openai'  
+RAPIDAPI_KEY=sua_chave_api_openai'  
 
 
 Substitua `'sua_chave_api_openai'`, `'sua_chave_api_rapidapi'` e `'sua_chave_api_openweathermap'` pelas suas respectivas chaves de API.
